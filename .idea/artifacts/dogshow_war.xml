@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dogshow:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dogshow-0.1.war">
+      <element id="artifact" artifact-name="dogshow:war exploded" />
+    </root>
+  </artifact>
+</component>
